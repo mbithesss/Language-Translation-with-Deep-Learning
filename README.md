@@ -1,4 +1,4 @@
-# English-to-Hindi Neural Machine Translation Model
+# English to Hindi Neural Machine Translation Model
 
 ## Overview
 This repository contains a Neural Machine Translation (NMT) model designed to translate English sentences into Hindi. The model uses an encoder-decoder architecture with Long Short-Term Memory (LSTM) layers and is trained on the **Hindi-English Truncated Corpus** dataset.
@@ -16,10 +16,8 @@ This repository contains a Neural Machine Translation (NMT) model designed to tr
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
 - [Setup](#setup)
-- [Usage](#usage)
+- [Training](#training)
 - [Model Checkpoints](#model-checkpoints)
-- [Evaluation](#evaluation)
-- [Results](#results)
 - [Contributing](#contributing)
 
 ---
@@ -59,7 +57,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/english-to-hindi-translation.git
+   git clone https://github.com/mbithesss/Language-Translation-with-Deep-Learning.git
    cd english-to-hindi-translation
 
 2. Install the required libraries:
